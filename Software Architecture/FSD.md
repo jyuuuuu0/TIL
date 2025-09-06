@@ -21,7 +21,7 @@ FSD의 주요 목적은 끊임없이 변화하는 비즈니스 요구 사항에 
 
 이러한 layers 폴더 안에 있는 `routes`, `home`, `api` 등 과 같은 폴더들을 **slices** 라고 한다.
 
-slices는 레이어를 도메일 별로 나눈다.
+slices는 레이어를 도메인 별로 나눈다.
 
 `app`, `shared`, 및 내부의 폴더를 **Segments**`pages/article-reader`라고 하며, Segment는 기술적 목적, 즉 코드의 용도에 따라 slices(또는 layers)를 나눈다.
 
